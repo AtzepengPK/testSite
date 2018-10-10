@@ -1,0 +1,81 @@
+body {
+    background: #333333;
+}
+
+div {
+    color: white;
+}
+
+.content {
+    height: 100%;
+    width: 100%;
+    padding: 50px;
+}
+
+.top-bar {
+    margin-top: 40px;
+    height: 140px;
+    background: #212121;
+}
+
+.menu-container {
+    height: 100%;
+}
+
+.info-container {
+    height: 100%;
+}
+
+.address-container {}
+
+.address {
+    float: left;
+}
+
+.phone-container {}
+
+.phone {
+    float: left;
+}
+
+.logo-container {
+    height: 100%;
+}
+
+.icon-place {
+    background: url(../icons/place.png);
+    width: 35px;
+    height: 35px;
+    float: left;
+}
+
+.icon-call {
+    background: url(../icons/call.png);
+    width: 35px;
+    height: 35px;
+    float: left;
+}
+
+.short-about {
+    height: 100%;
+}
+
+.home-img-1 {}
+
+.home-about {
+    height: 30%;
+}
+
+.short-services {
+    height: 100%;
+}
+
+.short-services-container {}
+
+.short-images {
+    height: 100%;
+}
+
+.home-img-2 {}
+
+.home-img-3 {}
